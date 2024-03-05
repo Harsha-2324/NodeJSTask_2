@@ -22,7 +22,7 @@
     - `GET`: Take a list of Booked rooms use endpoint: `/rooms/customer` 
 ![alt text](<Output Screenshots/Screenshot (314).png>)
 - **Delete Room:** Remove unnecessary rooms from the system with ease.
-   - `DELETE`: Delete a room use endpoint: `rooms/:id`
+   - `DELETE`: Delete a room use endpoint: `/rooms/:id`
 ![alt text](<Output Screenshots/Screenshot (320).png>)
 ![alt text](<Output Screenshots/Screenshot (319).png>)
 ## NodeJS
