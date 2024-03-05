@@ -3,7 +3,7 @@
 **This repository is created for NodeJS Hall Booking API Task** 
 
 ## Deployed Link 🔗
-  *Check out My NodeJS Hall Booking API Here*👉🏻 [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://nodejstask-2.onrender.com)
+  **Check out My NodeJS Hall Booking API Here**👉🏻 [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://nodejstask-2.onrender.com)
 
 ## Features ✨
 
