@@ -12,7 +12,7 @@
 - **List Booked Rooms:** View a list of all booked rooms along with customer details and booking information.
 - **List Customers:** Get insights into all customers who have booked rooms, including their booking history.
 - **Delete Room:** Remove unnecessary rooms from the system with ease.
-
+![alt text](<Output Screenshots/Screenshot (311).png>)
 ## NodeJS
   - It is used for server-side programming, and primarily deployed for non-blocking, event-driven servers, such as traditional web sites and back-end API services, but was originally designed with real-time, push-based architectures in mind. Every browser has its own version of a JS engine, and node.
 
