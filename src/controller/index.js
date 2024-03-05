@@ -3,11 +3,11 @@ const homePage = (req, res) => {
      <div>
      <h1 style="background-color:purple; text-align: center">🌟NodeJS_Hall_Booking_API_Task🎊</h1>
      <ul>
-        <li><h2><span style="background-color:yellow">GET</span>: Get all Rooms = endpoint: /rooms</h2></li>
-        <li><h2><span style="background-color:yellow">GET</span>: Take a list of Booked rooms = endpoint: /rooms/customer</h2></li>
-        <li><h2><span style="background-color:green">POST</span>: Create a new room = endpoint: /rooms/</h2></li>
-        <li><h2><span style="background-color:lightblue">PUT</span>: New Hall Booking = endpoint: /rooms/:id </h2></li>
-        <li><h2><span style="background-color:red">DELETE</span>: Delete a room = endpoint: /rooms/:id</h2></li>
+        <li><h2><span style="background-color:yellow">GET</span>: To Get all Rooms use endpoint: /rooms</h2></li>
+        <li><h2><span style="background-color:yellow">GET</span>: To Take a list of Booked rooms use endpoint: /rooms/customer</h2></li>
+        <li><h2><span style="background-color:green">POST</span>: To Create a new room use endpoint: /rooms/</h2></li>
+        <li><h2><span style="background-color:lightblue">PUT</span>: To Book a New Hall use endpoint: /rooms/:id </h2></li>
+        <li><h2><span style="background-color:red">DELETE</span>: To Delete a room use endpoint: /rooms/:id</h2></li>
      </ul>
      </div>
      `);
