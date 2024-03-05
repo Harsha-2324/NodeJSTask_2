@@ -8,11 +8,18 @@
 ## Features ✨
 
 - **Create Room:** Easily create new rooms with specified details such as capacity, amenities, and price per hour.
+![alt text](<Output Screenshots/Screenshot (316).png>)
+![alt text](<Output Screenshots/Screenshot (317).png>)
 - **Book Room:** Seamlessly book available rooms for specific dates and times, ensuring no double bookings.
+![alt text](<Output Screenshots/Screenshot (315).png>)
 - **List Booked Rooms:** View a list of all booked rooms along with customer details and booking information.
+![alt text](<Output Screenshots/Screenshot (313).png>)
+![alt text](<Output Screenshots/Screenshot (309).png>)
 - **List Customers:** Get insights into all customers who have booked rooms, including their booking history.
+![alt text](<Output Screenshots/Screenshot (314).png>)
 - **Delete Room:** Remove unnecessary rooms from the system with ease.
-![image](Output Screenshots/Screenshot%20(311).png)
+![alt text](<Output Screenshots/Screenshot (320).png>)
+![alt text](<Output Screenshots/Screenshot (319).png>)
 ## NodeJS
   - It is used for server-side programming, and primarily deployed for non-blocking, event-driven servers, such as traditional web sites and back-end API services, but was originally designed with real-time, push-based architectures in mind. Every browser has its own version of a JS engine, and node.
 
