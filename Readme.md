@@ -7,7 +7,7 @@ This Web application is created for managing rooms booking  in a Hall.
 
 ## Deployment
 
-*Check out My NodeJS Hall Booking System Here*👉🏻 [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://nodejstask-2-re-submission.onrender.com)
+*Check out My NodeJS Hall Booking System Here*👉🏻 [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://nodejstask-2.onrender.com)
 
 ## Endpoints with Output Screenshots
 
